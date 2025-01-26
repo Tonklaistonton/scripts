@@ -15,5 +15,5 @@ crave run --no-patch "rm -rf scripts && git clone https://github.com/phhgsi/scri
 ```
 For evolution x 
 ```bash
-crave run --no-patch "rm -rf scripts && [git clone https://github.com/Tonklaistonton/scripts.git && chmod u+x scripts/evolution/sync.sh && ./scripts/evolution/sync.sh "
+crave run --no-patch "rm -rf scripts && git clone https://github.com/Tonklaistonton/scripts.git && chmod u+x scripts/evolution/sync.sh && ./scripts/evolution/sync.sh "
 ```
