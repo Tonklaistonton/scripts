@@ -1,9 +1,5 @@
 ```bash
-sudo apt install rsync -y && ./crave devspace
-```
-
-```bash
-crave run --no-patch "rm -rf scripts && git clone https://github.com/phhgsi/scripts.git && chmod u+x scripts/derpfest14.sh && ./scripts/derpfest14.sh "
+crave run --no-patch "rm -rf scripts && git clone https://github.com/Tonklaistonton/scripts.git && chmod u+x scripts/derpfest15.sh && ./scripts/derpfest15.sh "
 ```
 For superior extended os 
 ```bash
