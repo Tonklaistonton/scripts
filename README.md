@@ -3,8 +3,7 @@ crave run --no-patch "rm -rf scripts && git clone https://github.com/Tonklaiston
 ```
 If already sync derp
 ```bash
-crave run --no-patch "rm -rf scripts && git clone https://github.com/Tonklaistonton/scripts.git && chmod u+x scripts/derpfest15.sh && ./scripts/derpfest15.sh "
-For superior extended os
+crave run --no-patch "rm -rf scripts && git clone https://github.com/Tonklaistonton/scripts.git && chmod u+x scripts/derpfest15resync.sh && ./scripts/derpfest15resync.sh "
 ```
 For evolution x 
 ```bash
