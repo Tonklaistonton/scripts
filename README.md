@@ -1,7 +1,11 @@
 ```bash
 crave run --no-patch "rm -rf scripts && git clone https://github.com/Tonklaistonton/scripts.git && chmod u+x scripts/derpfest15.sh && ./scripts/derpfest15.sh "
 ```
-For superior extended os 
+If already sync derp
+```bash
+crave run --no-patch "rm -rf scripts && git clone https://github.com/Tonklaistonton/scripts.git && chmod u+x scripts/derpfest15.sh && ./scripts/derpfest15.sh "
+For superior extended os
+```
 ```bash
 crave run --no-patch "rm -rf scripts && git clone https://github.com/phhgsi/scripts.git && chmod u+x scripts/superior.sh && ./scripts/superior.sh "
 ```
