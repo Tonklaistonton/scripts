@@ -9,6 +9,8 @@ echo "                 Thx                  "
 echo "            ajaysinghsati             "
 echo "--------------------------------------"
 echo
+repo forall -c 'git lfs install && git lfs pull && git lfs checkout'
+
 rm -rf device/realme/oscar
 git clone https://github.com/Tonklaistonton/android_device_realme_oscarlineage.git --depth=1 -b derpcam device/realme/oscar
 rm -rf device/realme/sm6375-common
