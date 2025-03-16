@@ -8,6 +8,5 @@ echo "                  Thx                 "
 echo "            ajaysinghsati             "
 echo "--------------------------------------"
 echo
-repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune -j$(nproc --all)
-repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune -j$(nproc --all)
+/opt/crave/resync.sh
 chmod u+x scripts/sync.sh && ./scripts/sync.sh
